@@ -6,9 +6,9 @@ To get started, simply clone this repository on your computer or Fork it via Git
 
 ## Repository structure
 ```
-fiftyshadesdarker
+mc-workshop
 └─ data
-|   ├─ in                               <- input example data-sets
+|   ├─ in                               <- input example data-set
 |   └─ out                              <- output result files
 └─ figures                              <- figure outputs
 └─ src
@@ -18,8 +18,8 @@ fiftyshadesdarker
 ```
 
 
-## Building models
-Bla blah
+## Building model
+We consider a simplistic 1st order building RC model and focus on the definition of the decision variables, and system constraints for the correct control of the building's inside temperature.
 
 
 
