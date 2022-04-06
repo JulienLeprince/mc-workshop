@@ -7,13 +7,10 @@ To get started, simply clone this repository on your computer or Fork it via Git
 ## Repository structure
 ```
 mc-workshop
-└─ data
+├─ data
 |   ├─ in                               <- input example data-set
 |   └─ out                              <- output result files
-└─ figures                              <- figure outputs
-└─ src
-|   ├─ 0 blabla                         <- blabla
-|   └─ utility functions                <- various utility functions
+├─ src                                  <- python code source files
 └─ README.md                            <- README for developers using this code
 ```
 
